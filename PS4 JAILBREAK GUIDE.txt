@@ -1,0 +1,9 @@
+**PS4 JAILBREAK BY NINJA2GL-DEV**
+
+Step 1 : Download The File "Jail.bin" 
+Step 2 : Pick A Pendrive Atleast 3GB And Create A Folder And Rename It "PS4JAIL"
+Step 3 : Copy The File "Jail.bin" And Paste It On The Folder "PS4JAIL"
+Step 4 : Plug The USB To The PS4
+Step 5 : Open The "Internet Browser" On Your PS4
+Step 6 : And Go To The Page "https://sites.google.com/view/ps4debug"
+Step 7 : Follow All Steps Given On The Site
